@@ -1,0 +1,45 @@
+{
+    "loaded_from_firestore": false,
+    "total_pageviews": 2000,
+    "total_script_runs": 1500,
+    "total_time_seconds": 545706.582,
+    "per_day": {
+      "days": [
+        "2023-10-10",
+        "2023-10-11",
+        "2023-10-12",
+        "2023-10-13",
+        "2023-10-14",
+        "2023-10-15",
+        "2023-10-16"
+      ],
+      "pageviews": [150, 220, 180, 300, 250, 230, 240],
+      "script_runs": [100, 180, 120, 270, 210, 190, 200]
+    },
+    "widgets": {
+      "Select Top-Level Category": {
+        " ": 1,
+        "electronics": 300,
+        "computers": 220,
+        "construction": 180,
+        "auto": 400,
+        "appliances": 350,
+        "stationery": 290,
+        "furniture": 330,
+        "kids": 280,
+        "accessories": 210,
+        "country_yard": 190,
+        "apparel": 170,
+        "medicine": 220,
+        "sport": 260,
+        "jewelry": 230
+      },
+      "Select Event Type": {
+        "purchase": 550,
+        "view": 620,
+        "cart": 350
+      }
+    },
+    "start_time": "13 Oct 2023, 21:14:55"
+  }
+  
